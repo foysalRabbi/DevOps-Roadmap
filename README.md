@@ -1,12 +1,5 @@
 # DevOps RoadMap 📌
 
-## Please Note that the tools marked in Blue are the Recommended ones. However, you can choose to study Yellow or Pink.
-
-![WhatsApp Image 2023-01-13 at 23 29 58](https://user-images.githubusercontent.com/85270361/212431058-b641e3fe-4aeb-4976-9d86-d89cd8fb87d6.jpg)
-
-
-
-
 ## Recommended RoadMap:
 
 Follow the Roadmap: 
@@ -30,9 +23,6 @@ Follow the Roadmap:
 17. Prometheus
 18. Grafana
 ```
-
-![WhatsApp Image 2023-01-22 at 08 43 29](https://user-images.githubusercontent.com/85270361/213905861-91ddc00c-a15d-4286-94b1-3856f4dc853f.jpg)
-
 
 ## Links to Resources
 
